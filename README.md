@@ -29,3 +29,5 @@ https://product.kyobobook.co.kr/detail/S000001834493
   - 1장: https://sorryisme.tistory.com/69
   - 2장: https://sorryisme.tistory.com/72
   - 3장 - 캐스트/MAC 주소: https://sorryisme.tistory.com/74
+  - 4장 - IP주소: https://sorryisme.tistory.com/80
+  - 5장 - TCP와 UDP: https://sorryisme.tistory.com/81
