@@ -24,6 +24,7 @@ https://product.kyobobook.co.kr/detail/S000001834493
   - 2장 - 네트워크 구성요소 : https://velog.io/@yyeonggg/Network-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C
   - 3장 - MAC 주소 / IP 주소 : https://velog.io/@yyeonggg/Network-MAC-%EC%A3%BC%EC%86%8C%EC%99%80-IP-%EC%A3%BC%EC%86%8C
   - 3장 - TCP, UDP, ARP : https://velog.io/@yyeonggg/Network-4%EA%B3%84%EC%B8%B5-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9CTCP-UDP%EA%B3%BC-ARP
+  - 3장 중 TCP 흐름제어 추가 공부 : https://velog.io/@yyeonggg/Network-TCP%EC%9D%98-%ED%9D%90%EB%A6%84-%EC%A0%9C%EC%96%B4
 
 - 도윤
   - 1장: https://sorryisme.tistory.com/69
