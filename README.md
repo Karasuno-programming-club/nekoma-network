@@ -16,6 +16,7 @@ https://product.kyobobook.co.kr/detail/S000001834493
 - 1주차(2024.10.4.) : 1장, 2장
 - 2주차(2024.10.11.) : 3장
 - 3주차(2024.10.18.) : 4장
+- 4주차(2024.10.24) : 5장
 
 ## 관련 포스팅
 - 근영
@@ -25,6 +26,7 @@ https://product.kyobobook.co.kr/detail/S000001834493
   - 3장 - MAC 주소 / IP 주소 : https://velog.io/@yyeonggg/Network-MAC-%EC%A3%BC%EC%86%8C%EC%99%80-IP-%EC%A3%BC%EC%86%8C
   - 3장 - TCP, UDP, ARP : https://velog.io/@yyeonggg/Network-4%EA%B3%84%EC%B8%B5-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9CTCP-UDP%EA%B3%BC-ARP
   - 3장 중 TCP 흐름제어 추가 공부 : https://velog.io/@yyeonggg/Network-TCP%EC%9D%98-%ED%9D%90%EB%A6%84-%EC%A0%9C%EC%96%B4
+  - 4장 스위치 : https://velog.io/@yyeonggg/Network-%EC%8A%A4%EC%9C%84%EC%B9%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
 
 - 도윤
   - 1장: https://sorryisme.tistory.com/69
